@@ -1,0 +1,20 @@
+# Виртуальное окружение
+.venv/
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE и ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Материалы лекций (не наша работа, в репозиторий не выкладываем)
+Lect_*/
