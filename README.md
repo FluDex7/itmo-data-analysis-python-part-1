@@ -7,7 +7,6 @@
 **Контакты:**
 - Telegram: [@romanofflife](https://t.me/romanofflife)
 - Email: [9e7erteagle@gmail.com](mailto:9e7erteagle@gmail.com)
-- Телефон: +7 917 862-13-85
 
 ## Лабораторные работы
 
