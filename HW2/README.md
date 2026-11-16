@@ -1,6 +1,6 @@
 # Лабораторная 2. Кластеризация методом K-means
 
-Блокнот: [HW2_KMeans.ipynb](HW2_KMeans.ipynb)
+Блокнот: [lab2.ipynb](lab2.ipynb)
 
 ## Задача
 
