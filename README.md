@@ -14,6 +14,7 @@
 |---|------|--------|---------|
 | 1 | [Иерархический кластерный анализ](HW1/) | Economics of Cities | [lab1.ipynb](HW1/lab1.ipynb) |
 | 2 | [Кластеризация методом K-means](HW2/) | Economics of Cities | [lab2.ipynb](HW2/lab2.ipynb) |
+| 3 | [Кластеризация методом DBSCAN](HW3/) | Economics of Cities | [lab3.ipynb](HW3/lab3.ipynb) |
 
 ## Структура репозитория
 
